@@ -9,7 +9,7 @@ Description:
     money in coins (e.g. "4 dimes and 7 quarters") and prints the
     equivalent dollar amount for each sentence.
 
-Author: [Student Name]
+Author: Jonathan Cruz
 Sprint: 1 (Initial Implementation)
 """
 
