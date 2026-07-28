@@ -1,7 +1,7 @@
 """
 coin_converter_sprint1.py
 
-CS T 3883 Final Exam - Sprint 1
+IT 3883 Final Exam - Sprint 1
 Program: Coin Sentence to Dollar Amount Converter
 
 Description:
